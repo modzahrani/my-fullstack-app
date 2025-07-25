@@ -4,9 +4,14 @@ This repository contains both the **backend** (FastAPI) and **frontend** (React)
  
 You will need to have:
     1- ReactJS 
+
     2- Axios library
+
     3- FastAPI,Uvicorn
+
     4- your own database and ENV file
+
+    5- run npm install for deps
 
 
 
